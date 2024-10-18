@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\tic-tac-toe\\tic-tac-toe\\TicTacToe.csproj": {}
+    "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\TicTacGame\\tictactoe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\tic-tac-toe\\tic-tac-toe\\TicTacToe.csproj": {
+    "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\TicTacGame\\tictactoe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\tic-tac-toe\\tic-tac-toe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\TicTacGame\\tictactoe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\tic-tac-toe\\tic-tac-toe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\TicTacGame\\tictactoe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\Justu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\tic-tac-toe\\tic-tac-toe\\obj\\",
+        "outputPath": "C:\\Users\\Justu\\Desktop\\school\\Fall2024\\CSE310\\TicTacGame\\tictactoe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Justu\\AppData\\Roaming\\NuGet\\NuGet.Config",
